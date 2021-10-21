@@ -1,4 +1,4 @@
-import { Container, Row, Col, Nav, NavItem, NavLink, Button } from "reactstrap";
+import { Container, Row, Col, Button } from "reactstrap";
 
 export const Header = () => {
   return (

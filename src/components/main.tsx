@@ -21,9 +21,9 @@ export const Main = () => {
             <Menu current={current} onClickMenu={onClickMenu}></Menu>
           </Col>
 					<Col md="9">
-						{current == "home" && <Home></Home>}
-						{current == "set" && <Set></Set>}
-						{current == "plan" && <Plan></Plan>}
+						{current === "home" && <Home></Home>}
+						{current === "set" && <Set></Set>}
+						{current === "plan" && <Plan></Plan>}
           </Col>
         </Row>
       </Container>

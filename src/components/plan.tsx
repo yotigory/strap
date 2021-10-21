@@ -1,11 +1,9 @@
 import {
-  Container,
   Row,
   Col,
   Jumbotron,
   Button,
   Card,
-  CardImg,
   CardText,
   CardBody,
   CardTitle,
