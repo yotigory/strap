@@ -21,7 +21,7 @@ export const Plan = () => {
         </Jumbotron>
       </div>
       <Row>
-        <Col xs="4" className="mt-4">
+        <Col md="4" className="mt-4">
           <Card>
             <CardBody>
               <CardTitle className="text-success" tag="h5">
@@ -38,7 +38,7 @@ export const Plan = () => {
             </CardBody>
           </Card>
         </Col>
-        <Col xs="4" className="mt-4">
+        <Col md="4" className="mt-4">
           <Card>
             <CardBody>
               <CardTitle className="text-success" tag="h5">
@@ -55,7 +55,7 @@ export const Plan = () => {
             </CardBody>
           </Card>
         </Col>
-        <Col xs="4" className="mt-4">
+        <Col md="4" className="mt-4">
           <Card>
             <CardBody>
               <CardTitle className="text-success" tag="h5">
@@ -72,7 +72,7 @@ export const Plan = () => {
             </CardBody>
           </Card>
         </Col>
-        <Col xs="4" className="mt-4">
+        <Col md="4" className="mt-4">
           <Card>
             <CardBody>
               <CardTitle className="text-success" tag="h5">
@@ -89,7 +89,7 @@ export const Plan = () => {
             </CardBody>
           </Card>
         </Col>
-        <Col xs="4" className="mt-4">
+        <Col md="4" className="mt-4">
           <Card>
             <CardBody>
               <CardTitle className="text-success" tag="h5">
